@@ -68,7 +68,11 @@ else {
 
 
 
+<<<<<<< HEAD
 /*var favAnime = prompt("what is your fav anime? (Hunter x Hunter , One piece  )")
+=======
+var favAnime = prompt("what is your fav anime? (Hunter x Hunter , One piece  )")
+>>>>>>> 7905bb94aa9d54e9d7794564d72b6b12a33974a8
 
 while(favAnime != "One piece" && favAnime != "Hunter x Hunter") {favAnime = prompt("what is your fav Anime? (Hunter x Hunter , One piece)")
 }
