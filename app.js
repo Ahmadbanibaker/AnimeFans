@@ -68,7 +68,11 @@ else {
 
 
 
-/*var favAnime = prompt("what is your fav anime? (Hunter x Hunter , One piece  )")
+
+var favAnime = prompt("what is your fav anime? (Hunter x Hunter , One piece  )")
+
+var favAnime = prompt("what is your fav anime? (Hunter x Hunter , One piece  )")
+
 
 while(favAnime != "One piece" && favAnime != "Hunter x Hunter") {favAnime = prompt("what is your fav Anime? (Hunter x Hunter , One piece)")
 }
