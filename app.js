@@ -68,19 +68,17 @@ else {
 
 
 
-<<<<<<< HEAD
+
 
 var favAnime = prompt("what is your fav anime? (Hunter x Hunter , One piece  )")
 
 var favAnime = prompt("what is your fav anime? (Hunter x Hunter , One piece  )")
 
-=======
-<<<<<<< HEAD
-/*var favAnime = prompt("what is your fav anime? (Hunter x Hunter , One piece  )")
-=======
+
 var favAnime = prompt("what is your fav anime? (Hunter x Hunter , One piece  )")
->>>>>>> 7905bb94aa9d54e9d7794564d72b6b12a33974a8
->>>>>>> 9aa6e1037539174a6c4a468aa6d897b3f551fd53
+
+var favAnime = prompt("what is your fav anime? (Hunter x Hunter , One piece  )")
+
 
 while(favAnime != "One piece" && favAnime != "Hunter x Hunter") {favAnime = prompt("what is your fav Anime? (Hunter x Hunter , One piece)")
 }
